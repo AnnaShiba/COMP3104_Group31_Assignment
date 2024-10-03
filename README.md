@@ -1,10 +1,9 @@
 # COMP3104_Group31_Assignment-
 
-# COMP3104_Group1_Assignment 
 ## Group Members 
-- **Leader:** Anna Shiba (ID) - [GitHub](https://github.com/AnnaShiba) - 
+- **Leader:** Anna  (ID) - [GitHub](https://github.com/AnnaShiba) - 
 - **Member 2:** Nicole Milmine  (101462077) - [GitHub](https://github.com/n2milmin) - 
-- **Member 3:** John Smith (1027890) - [GitHub](https://github.com/johnsmith) 
+- **Member 3:**  (ID) - [GitHub]() 
 
 ## Project Description This repository hosts the group assignment for COMP3104 DevOps course, focusing on collaborative Git workflows, branching strategies, and CI/CD integration. 
 
