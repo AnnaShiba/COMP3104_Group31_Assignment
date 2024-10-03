@@ -1,7 +1,7 @@
 # COMP3104_Group31_Assignment-
 
 ## Group Members 
-- **Leader:** Anna Shibanova (ID) - [GitHub](https://github.com/AnnaShiba) - 
+- **Leader:** Anna Shibanova (101399925) - [GitHub](https://github.com/AnnaShiba) - 
 - **Member 2:** Nicole Milmine  (101462077) - [GitHub](https://github.com/n2milmin) - 
 - **Member 3:** Aarjav Baxi (101436534) - [GitHub](https://github.com/Aarjav-30) 
 
@@ -14,7 +14,7 @@ This repository hosts the group assignment for COMP3104 DevOps course, focusing 
 3. Install any dependencies as listed. 
 
 ## CI/CD Pipeline 
-The project utilizes GitHub Actions for continuous integration. The workflow is defined in `.github/workflows/ci.yml`. 
+The project utilizes GitHub Actions for continuous integration. The workflow is defined in `.github/workflows/main.yml`. 
 
 ## Branching Strategy
 Each member has their own branch named `STUDENTID-Name`. All changes are merged into the `main` branch via Pull Requests.
