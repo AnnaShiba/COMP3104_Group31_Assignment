@@ -1,0 +1,13 @@
+Software Development Life Cycle (SDLC) 
+
+The software development life cycle is the cost and time-efficient process that is used by development 
+teams to design and build high-level software. The SDLC is a circular system put in place in the 
+beginning stages of software development and is kept in play until the software is no longer supported.
+SDLC begins by analyzing the project's requirements. Once the requirement has been recognized, 
+the planning stage begins. After the team has completed planning, the software architecture is designed
+to give the software development stage a guide to follow. After development, rigorous testing is 
+completed to ensure the software is deployment-ready. Once deployed, the team will reconviene to 
+re-analyze the requirements and begin the process of maintaining the software.
+
+For more information: 
+https://en.wikipedia.org/wiki/Systems_development_life_cycle 
