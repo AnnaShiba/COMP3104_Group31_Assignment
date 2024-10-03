@@ -9,5 +9,14 @@ to give the software development stage a guide to follow. After development, rig
 completed to ensure the software is deployment-ready. Once deployed, the team will reconviene to 
 re-analyze the requirements and begin the process of maintaining the software.
 
-For more information: 
+SDLC is an integral part of DevOps, as it brings together development and planning teams working on the
+same project. The SDLC is the map and timeline created that prevents miscommunicating objectives and 
+provides a clear understanding of what each team member is to complete. The DevOps engineer's job is to 
+manage the CI/CD pipeline and automate the deployed steps. The SDLC provided the developers with the 
+knowledge of how to interact with the DevOps engineer to ensure maximum time efficiency. 
+
+For more information on the SDLC: 
 https://en.wikipedia.org/wiki/Systems_development_life_cycle 
+
+For more information on DevOps: 
+https://en.wikipedia.org/wiki/DevOps 
