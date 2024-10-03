@@ -1,0 +1,9 @@
+Course Outcomes
+At the end of this course, the student will reliably demonstrate the ability to:
+1. Describe and implement the major new features in ES6.
+2. Design and implement a simple front-end web solution using React.
+3. Utilize native features of Node.js using built-in modules.
+4. Implement a data storage solution using MongoDB.
+5. Store and retrieve data to a MongoDB using Mongoose ODM.
+6. Create a basic Express web server.
+7. Implement and consume REST APIs with Node.js and Express
