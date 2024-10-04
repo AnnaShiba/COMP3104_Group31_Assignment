@@ -1,0 +1,61 @@
+01 Git configuration
+_______________________
+git config --global
+user.name “Your Name”
+Set the name that will be attached to your commits and tags.
+_______________________
+git config --global
+user.email “you@example.com”
+Set the e-mail address that will be attached to your commits
+and tags.
+_______________________
+git config --global
+color.ui auto 
+Enable some colorization of Git output.
+
+_______________________
+
+02 Starting a project
+______________________
+
+git init [project name]
+Create a new local repository in the current directory. If
+[project name] is provided, Git will create a new directory
+named [project name] and will initialize a repository inside it.
+______________________
+git clone <project url>
+Downloads  a project with the entire history from the remote
+repository.
+
+_____________________
+
+03 Day-to-day work
+_____________________
+git status
+Displays the status of your working directory. Options include
+new, staged, and modified files. It will retrieve branch name,
+current commit identifier, and changes pending commit.
+____________________
+git add [file]
+Add a file to the staging area. Use. in place of the full file path
+to add all changed files from the current directory down into
+the directory tree.
+___________________
+git diff [file]
+ Show changes between working directory and staging area.
+____________________
+git diff --staged [file]
+ Shows any changes between the staging area and the
+repository.
+___________________
+git checkout -- [file]
+ Discard changes in working directory. This operation is
+unrecoverable.
+____________________
+git reset <path>...]
+ Revert some paths in the index (or the whole index) to their
+state in HEAD.
+____________________
+git commit
+ Create a new commit from changes added to the staging area.
+The commit must have a message! 
