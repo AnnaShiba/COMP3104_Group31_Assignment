@@ -1,0 +1,22 @@
+COMP 3104 - DevOps
+Term : Fall 2024
+Instructor - Pritesh Patel
+
+DevOps course at George Brown College is designed to introduce students to the principles and practices of DevOps, a critical methodology in modern
+software development. This course emphasizes the need for seamless integration between development and operations teams to create more efficient and reliable 
+software deployment pipelines.
+
+Throughout the course, students gain hands-on experience with tools like Git for version control, Jenkins for continuous integration, and Docker for
+containerization. By mastering these tools, students learn how to automate testing and deployment processes, significantly reducing the time between writing
+code and delivering it to production. Moreover, the course focuses on the cultural shift in organizations, highlighting the importance of communication,
+collaboration, and shared responsibility among team members.
+
+COMP 3104 DevOps - Course Outcomes
+Upon successful completion of the COMP 3104 DevOps course, students will be able to:
+
+
+1) Grasp the core concepts of DevOps, including its impact on software development efficiency and the collaboration between development and operations teams.
+2) Implement Continuous Integration and Continuous Delivery (CI/CD) Pipelines
+3) Master the use of Git for version control, managing code repositories, branches, and collaboration with teams in a structured and efficient manner.
+4) Automate Testing and Deployment:Learn how to set up automated testing frameworks and deploy software in an automated, repeatable, and scalable fashion,
+   reducing errors and increasing productivity.
