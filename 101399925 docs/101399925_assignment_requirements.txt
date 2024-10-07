@@ -1,0 +1,18 @@
+Assignment - 1 (GROUP)
+
+ Task: Submit to complete this assignment
+ Due October 13 at 11:59 PM
+ Available on Sep 16, 2024 12:01 AM. Access restricted before availability starts.
+ Available until Oct 14, 2024 12:30 AM. Access restricted after availability ends.
+Final Submission
+
+Create separate PDF/DOCX file for each member and submit all file by one member. If any member had not contributed, please mention it while submitting your work.
+
+Repository Link: Ensure your GitHub repository is public and copy the link.
+Screenshots:
+Capture screenshots showing:
+Your local repository setup.
+Git commit history.
+Branch structure.
+CI pipeline status.
+Submission Folder: Upload the GitHub repository link and screenshots to the assignment submission folder on D2L before the deadline.
