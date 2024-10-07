@@ -1,8 +1,9 @@
 Information about George Brown College
 
 George Brown is a Canadian College located in Toronto, Ontario. 
-To learn more about George Brown College, check out this web page:
+To learn more about George Brown College, check out these web pages:
 https://www.georgebrown.ca/
+https://en.wikipedia.org/wiki/George_Brown_College 
 
 George Brown College, specifically the Casa Loma Campus, is home to the School of Computer Technology and 
 the Computer Programming and Analysic Program. There are two streams of this program, regular (T177) and 
